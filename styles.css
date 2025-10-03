@@ -12,6 +12,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    /* max width of content to 1200px */
+    max-width: 1200px;
+    /* center content horizontally */
+    margin: 0 auto;
 }
 
 body {
